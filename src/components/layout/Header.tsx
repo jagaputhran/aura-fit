@@ -20,10 +20,10 @@ export function Header() {
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2">
           <div className="w-10 h-10 rounded-full bg-gradient-burgundy flex items-center justify-center">
-            <span className="text-primary-foreground font-display text-xl font-bold">V</span>
+            <span className="text-primary-foreground font-display text-xl font-bold">R</span>
           </div>
           <span className="font-display text-2xl font-semibold text-foreground">
-            Vastra<span className="text-gradient-gold">AI</span>
+            Riva <span className="text-gradient-gold">AI</span>
           </span>
         </Link>
 

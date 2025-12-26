@@ -29,10 +29,10 @@ export function Footer() {
           <div className="lg:col-span-1">
             <Link to="/" className="flex items-center gap-2 mb-4">
               <div className="w-10 h-10 rounded-full bg-gradient-gold flex items-center justify-center">
-                <span className="text-charcoal font-display text-xl font-bold">V</span>
+                <span className="text-charcoal font-display text-xl font-bold">R</span>
               </div>
               <span className="font-display text-2xl font-semibold text-ivory">
-                Vastra<span className="text-gold">AI</span>
+                Riva <span className="text-gold">AI</span>
               </span>
             </Link>
             <p className="text-ivory/70 text-sm leading-relaxed mb-6">
@@ -105,7 +105,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-ivory/10 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-ivory/50 text-sm">
-            © {new Date().getFullYear()} VastraAI. All rights reserved.
+            © {new Date().getFullYear()} Riva AI. All rights reserved.
           </p>
           <div className="flex items-center gap-6">
             <span className="text-ivory/50 text-xs">DPDP Compliant</span>

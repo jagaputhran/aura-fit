@@ -5,7 +5,7 @@ const steps = [
   {
     icon: Smartphone,
     title: "Download the App",
-    description: "Get the VastraAI app on your phone. Available on iOS and Android.",
+    description: "Get the Riva AI app on your phone. Available on iOS and Android.",
     color: "gold",
   },
   {
@@ -65,7 +65,7 @@ export function HowItWorksSection() {
             Simple Process
           </span>
           <h2 className="font-display text-3xl md:text-4xl lg:text-5xl font-bold text-foreground mb-4">
-            How VastraAI Works
+            How Riva AI Works
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
             From scanning to delivery, get your perfect-fitting blouse in 5 simple steps. 
