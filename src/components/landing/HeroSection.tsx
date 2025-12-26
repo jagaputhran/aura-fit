@@ -105,7 +105,7 @@ export function HeroSection() {
                           <Smartphone className="w-8 h-8 text-gold" />
                         </div>
                         <h3 className="font-display text-lg font-semibold text-charcoal mb-2">
-                          VastraAI App
+                          Riva AI App
                         </h3>
                         <p className="text-sm text-charcoal/70 mb-4">
                           Take 2 photos to get your perfect measurements

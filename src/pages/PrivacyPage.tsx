@@ -57,7 +57,7 @@ const PrivacyPage = () => {
                 Your Privacy is <span className="text-gradient-gold">Sacred</span>
               </h1>
               <p className="text-muted-foreground text-lg leading-relaxed">
-                We understand that body measurements are deeply personal. That's why we've built VastraAI 
+                We understand that body measurements are deeply personal. That's why we've built Riva AI 
                 with privacy at its core - not as an afterthought.
               </p>
             </motion.div>
@@ -224,10 +224,10 @@ const PrivacyPage = () => {
                 please reach out to our Data Protection Officer.
               </p>
               <a
-                href="mailto:privacy@vastraai.com"
+                href="mailto:privacy@riva-ai.com"
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-gold text-charcoal font-semibold hover:bg-gold-light transition-colors"
               >
-                Contact: privacy@vastraai.com
+                Contact: privacy@riva-ai.com
               </a>
             </motion.div>
           </div>
